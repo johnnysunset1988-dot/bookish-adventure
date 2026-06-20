@@ -1,254 +1,253 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="1001Noites.br@SD" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Entretenimento",1001 Noites (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="1" tvg-id="1001Noites.br" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Entretenimento",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Entretenimento",Adesso TV (720p)
+#EXTINF:-1 tvg-chno="2" tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Entretenimento",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="AmazonSat.br@SD" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Entretenimento",Amazon Sat (1080p)
+#EXTINF:-1 tvg-chno="3" tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Entretenimento",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="AngelTV.in@Portuguese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Entretenimento",Angel TV Portuguese (720p)
+#EXTINF:-1 tvg-chno="4" tvg-id="AngelTV.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Entretenimento",Angel TV Portuguese (720p)
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="ArarunaTV.br@SD" tvg-logo="https://i.imgur.com/jl39ula.png" group-title="Entretenimento",Araruna TV
+#EXTINF:-1 tvg-chno="5" tvg-id="ArarunaTV.br" tvg-logo="https://i.imgur.com/jl39ula.png" group-title="Entretenimento",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="AratuOn.br@SD" tvg-logo="https://i.imgur.com/Ht4jCab.png" group-title="Entretenimento",Aratu On
+#EXTINF:-1 tvg-chno="6" tvg-id="AratuOn.br" tvg-logo="https://i.imgur.com/Ht4jCab.png" group-title="Entretenimento",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="AWTV.br@HD" tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="Entretenimento",AWTV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-chno="7" tvg-id="AWTV.br" tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="Entretenimento",AWTV (1080p) [Geo-blocked]
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="Blitstv.br@SD" tvg-logo="https://i.imgur.com/FO4QTRf.jpeg" group-title="Entretenimento",Blitstv
+#EXTINF:-1 tvg-chno="8" tvg-id="Blitstv.br" tvg-logo="https://i.imgur.com/FO4QTRf.jpeg" group-title="Entretenimento",Blitstv
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="Canal25Jundiai.br@SD" tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="Entretenimento",Canal 25 Jundiaí (404p) [Not 24/7]
+#EXTINF:-1 tvg-chno="9" tvg-id="Canal25Jundiai.br" tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="Entretenimento",Canal 25 Jundiaí (404p) [Not 24/7]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="CanalEducacao.br@SD" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Entretenimento",Canal Educação (720p)
+#EXTINF:-1 tvg-chno="10" tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Entretenimento",Canal Educação (720p)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="CanalFDR.br@SD" tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="Entretenimento",Canal FDR
+#EXTINF:-1 tvg-chno="11" tvg-id="CanalFDR.br" tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="Entretenimento",Canal FDR
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="CanalGov.br@SD" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="Entretenimento",Canal Gov (720p)
+#EXTINF:-1 tvg-chno="12" tvg-id="CanalGov.br" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="Entretenimento",Canal Gov (720p)
 https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="CanalMetropolitanodeNoticias.br@SD" tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="Entretenimento",Canal Metropolitano de Noticias
+#EXTINF:-1 tvg-chno="13" tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="Entretenimento",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="CanalSaude.br@SD" tvg-logo="https://i.imgur.com/ht4tUOc.png" group-title="Entretenimento",Canal Saúde (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="14" tvg-id="CanalSaude.br" tvg-logo="https://i.imgur.com/ht4tUOc.png" group-title="Entretenimento",Canal Saúde (720p) [Not 24/7]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="Catve2.br@SD" tvg-logo="https://i.imgur.com/qiVfsfB.png" group-title="Entretenimento",Catve2 (720p)
+#EXTINF:-1 tvg-chno="15" tvg-id="Catve2.br" tvg-logo="https://i.imgur.com/qiVfsfB.png" group-title="Entretenimento",Catve2 (720p)
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="CatveFM.br@SD" tvg-logo="https://i.imgur.com/w89yw36.png" group-title="Entretenimento",Catve FM (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="16" tvg-id="CatveFM.br" tvg-logo="https://i.imgur.com/w89yw36.png" group-title="Entretenimento",Catve FM (720p) [Not 24/7]
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="CatveMasterTV.br@SD" tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="Entretenimento",Catve Master TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="17" tvg-id="CatveMasterTV.br" tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="Entretenimento",Catve Master TV (720p) [Not 24/7]
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="CazeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Entretenimento",CazeTV (1080i)
+#EXTINF:-1 tvg-chno="18" tvg-id="CazeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Entretenimento",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-id="ChromaTV.br@SD" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Entretenimento",Chroma TV (480p)
+#EXTINF:-1 tvg-chno="19" tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Entretenimento",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="ClassiqueTV.br@SD" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Entretenimento",Classique TV (360p)
+#EXTINF:-1 tvg-chno="20" tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Entretenimento",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="COMBrasil.br@SD" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Entretenimento",COM Brasil (1080p) [Not 24/7]
+#EXTINF:-1 tvg-chno="21" tvg-id="COMBrasil.br" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Entretenimento",COM Brasil (1080p) [Not 24/7]
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="ConecTVBrasil.br@SD" tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="TV Aberta",ConecTV Brasil (720p)
+#EXTINF:-1 tvg-chno="22" tvg-id="ConecTVBrasil.br" tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="TV Aberta",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="DemaisTV.br@SD" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Entretenimento",Demais TV (720p)
+#EXTINF:-1 tvg-chno="23" tvg-id="DemaisTV.br" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Entretenimento",Demais TV (720p)
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="ElyTV.br@SD" tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="Entretenimento",ElyTV (360p)
+#EXTINF:-1 tvg-chno="24" tvg-id="ElyTV.br" tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="Entretenimento",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="EUTV.br@SD" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="Entretenimento",EUTV (720p)
+#EXTINF:-1 tvg-chno="25" tvg-id="EUTV.br" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="Entretenimento",EUTV (720p)
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="FalaLitoral.br@SD" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="Entretenimento",Fala Litoral (480p)
+#EXTINF:-1 tvg-chno="26" tvg-id="FalaLitoral.br" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="Entretenimento",Fala Litoral (480p)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="ForaTedioTV.br@SD" tvg-logo="https://i.imgur.com/R9ul4T1.png" group-title="Entretenimento",Fora Tedio TV (720p)
+#EXTINF:-1 tvg-chno="27" tvg-id="ForaTedioTV.br" tvg-logo="https://i.imgur.com/R9ul4T1.png" group-title="Entretenimento",Fora Tedio TV (720p)
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="geFast.br@SD" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="Entretenimento",ge Fast (1080p)
+#EXTINF:-1 tvg-chno="28" tvg-id="geFast.br" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="Entretenimento",ge Fast (1080p)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="GospelCartoon.br@SD" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Infantil",Gospel Cartoon (360p)
+#EXTINF:-1 tvg-chno="29" tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Infantil",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="GospelMovieTV.br@SD" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Filmes",Gospel Movie TV (360p)
+#EXTINF:-1 tvg-chno="30" tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Filmes",Gospel Movie TV (360p)
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="ISTV.br@SD" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Entretenimento",ISTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="31" tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Entretenimento",ISTV (720p) [Not 24/7]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="JovemPanNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="Notícias",Jovem Pan News (JP News) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-chno="32" tvg-id="JovemPanNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="Notícias",Jovem Pan News (JP News) (1080p) [Not 24/7]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="KpopTVPlay.br@SD" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Entretenimento",KpopTV Play (576p)
+#EXTINF:-1 tvg-chno="33" tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Entretenimento",KpopTV Play (576p)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="KuriakosKids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil",Kuriakos Kids (1080p)
+#EXTINF:-1 tvg-chno="34" tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Infantil",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="Entretenimento",Loading (720p)
+#EXTINF:-1 tvg-chno="35" tvg-id="Loading.br" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="Entretenimento",Loading (720p)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="MKKWebTV.br@SD" tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="Entretenimento",MKK Web TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="36" tvg-id="MKKWebTV.br" tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="Entretenimento",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filmes",MyTime Movie Network Brazil (720p)
+#EXTINF:-1 tvg-chno="37" tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filmes",MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="NickOnline.br@SD" tvg-logo="https://x1co.com.br/logo.png" group-title="Infantil",NickOnline (360p)
+#EXTINF:-1 tvg-chno="38" tvg-id="NickOnline.br" tvg-logo="https://x1co.com.br/logo.png" group-title="Infantil",NickOnline (360p)
 https://x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Infantil",NickToons Brasil (480p)
+#EXTINF:-1 tvg-chno="39" tvg-id="NickToonsBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Infantil",NickToons Brasil (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="NovoTempo.br@SD" group-title="Entretenimento",Novo Tempo (720p)
+#EXTINF:-1 tvg-chno="40" tvg-id="NovoTempo.br" group-title="Entretenimento",Novo Tempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="NTV.br@SD" tvg-logo="https://i.imgur.com/n79nkVC.png" group-title="Entretenimento",NTV
+#EXTINF:-1 tvg-chno="41" tvg-id="NTV.br" tvg-logo="https://i.imgur.com/n79nkVC.png" group-title="Entretenimento",NTV
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="Entretenimento",Play TV (720p)
+#EXTINF:-1 tvg-chno="42" tvg-id="PlayTV.br" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="Entretenimento",Play TV (720p)
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="PlenaTV.br@SD" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="Entretenimento",Plena TV (720p)
+#EXTINF:-1 tvg-chno="43" tvg-id="PlenaTV.br" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="Entretenimento",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="RBATV.br@SD" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="Entretenimento",RBATV (720p)
+#EXTINF:-1 tvg-chno="44" tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="Entretenimento",RBATV (720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-id="RecordNews.br@SD" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Notícias",Record News (720p)
+#EXTINF:-1 tvg-chno="45" tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Notícias",Record News (720p)
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="Record.br@SD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="TV Aberta",RecordTV
+#EXTINF:-1 tvg-chno="46" tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="TV Aberta",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="RedeBrasil.br@SD" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Entretenimento",Rede Brasil (1080p)
+#EXTINF:-1 tvg-chno="47" tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Entretenimento",Rede Brasil (1080p)
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="RedeGospel.br@SD" tvg-logo="https://i.imgur.com/mttSwgO.png" group-title="Entretenimento",Rede Gospel (1080p)
+#EXTINF:-1 tvg-chno="48" tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/mttSwgO.png" group-title="Entretenimento",Rede Gospel (1080p)
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="RedeNGT.br@SD" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Entretenimento",Rede NGT (1080p)
+#EXTINF:-1 tvg-chno="49" tvg-id="RedeNGT.br" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Entretenimento",Rede NGT (1080p)
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="RedeSPTV.br@SD" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="Entretenimento",Rede SPTV (360p)
+#EXTINF:-1 tvg-chno="50" tvg-id="RedeSPTV.br" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="Entretenimento",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="RedeTVES.br@SD" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="Entretenimento",Rede TV! ES (1080p)
+#EXTINF:-1 tvg-chno="51" tvg-id="RedeTVES.br" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="Entretenimento",Rede TV! ES (1080p)
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="RedeTVMais.br@SD" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="Entretenimento",Rede TV! Mais
+#EXTINF:-1 tvg-chno="52" tvg-id="RedeTVMais.br" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="Entretenimento",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="RedeTVParana.br@SD" tvg-logo="https://i.imgur.com/D8R0Af4.png" group-title="TV Aberta",RedeTV! Parana
+#EXTINF:-1 tvg-chno="53" tvg-id="RedeTVParana.br" tvg-logo="https://i.imgur.com/D8R0Af4.png" group-title="TV Aberta",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="RITTV.br@SD" tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="Entretenimento",RIT TV (1080p)
+#EXTINF:-1 tvg-chno="54" tvg-id="RITTV.br" tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="Entretenimento",RIT TV (1080p)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="SESCTV.br@SD" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="Entretenimento",SESC TV (1080p)
+#EXTINF:-1 tvg-chno="55" tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="Entretenimento",SESC TV (1080p)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="SICTV.br@SD" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Entretenimento",SIC TV (720p)
+#EXTINF:-1 tvg-chno="56" tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Entretenimento",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="Slime.br@SD" tvg-logo="https://x1co.com.br/slimelogo.png" group-title="Entretenimento",Slime (576p) [Not 24/7]
+#EXTINF:-1 tvg-chno="57" tvg-id="Slime.br" tvg-logo="https://x1co.com.br/slimelogo.png" group-title="Entretenimento",Slime (576p) [Not 24/7]
 https://slime.x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="STZTV.br@SD" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Entretenimento",STZ TV (1080p)
+#EXTINF:-1 tvg-chno="58" tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Entretenimento",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-id="TimesBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png" group-title="Entretenimento",Times Brasil (1080p)
+#EXTINF:-1 tvg-chno="59" tvg-id="TimesBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png" group-title="Entretenimento",Times Brasil (1080p)
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="TraceBrazuca.fr@HD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Entretenimento",Trace Brasil (1080p)
+#EXTINF:-1 tvg-chno="60" tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Entretenimento",Trace Brasil (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="TVACritica.br@SD" tvg-logo="https://i.imgur.com/j51rBro.png" group-title="Entretenimento",TV A Critica
+#EXTINF:-1 tvg-chno="61" tvg-id="TVACritica.br" tvg-logo="https://i.imgur.com/j51rBro.png" group-title="Entretenimento",TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="TVAFolha.br@SD" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="Entretenimento",TV A Folha (720p)
+#EXTINF:-1 tvg-chno="62" tvg-id="TVAFolha.br" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="Entretenimento",TV A Folha (720p)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="TVAldeia.br@SD" tvg-logo="https://i.imgur.com/rsfnv4Z.png" group-title="Entretenimento",TV Aldeia (720p)
+#EXTINF:-1 tvg-chno="63" tvg-id="TVAldeia.br" tvg-logo="https://i.imgur.com/rsfnv4Z.png" group-title="Entretenimento",TV Aldeia (720p)
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="TVAliancaCatarinense.br@SD" tvg-logo="https://i.imgur.com/eqmOhtP.png" group-title="Entretenimento",TV Aliança Catarinense (720p)
+#EXTINF:-1 tvg-chno="64" tvg-id="TVAliancaCatarinense.br" tvg-logo="https://i.imgur.com/eqmOhtP.png" group-title="Entretenimento",TV Aliança Catarinense (720p)
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="TVAlternativa.br@SD" tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="Entretenimento",TV Alternativa (410p)
+#EXTINF:-1 tvg-chno="65" tvg-id="TVAlternativa.br" tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="Entretenimento",TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="TVAparecida.br@SD" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Entretenimento",TV Aparecida (1080p) [Not 24/7]
+#EXTINF:-1 tvg-chno="66" tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Entretenimento",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="TVArapuan.br@SD" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Entretenimento",TV Arapuan (720p)
+#EXTINF:-1 tvg-chno="67" tvg-id="TVArapuan.br" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Entretenimento",TV Arapuan (720p)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="TVAssembleiaCeara.br@SD" tvg-logo="https://i.imgur.com/UPa1tjs.png" group-title="Entretenimento",TV Assembléia Ceará (720p)
+#EXTINF:-1 tvg-chno="68" tvg-id="TVAssembleiaCeara.br" tvg-logo="https://i.imgur.com/UPa1tjs.png" group-title="Entretenimento",TV Assembléia Ceará (720p)
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="TV Aberta",TV Brasil (720p)
+#EXTINF:-1 tvg-chno="69" tvg-id="TVBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="TV Aberta",TV Brasil (720p)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="TVBRICSPortuguese.br@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Entretenimento",TV BRICS Portuguese (1080p)
+#EXTINF:-1 tvg-chno="70" tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Entretenimento",TV BRICS Portuguese (1080p)
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="TVBrusque.br@SD" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="Entretenimento",TV Brusque (720p)
+#EXTINF:-1 tvg-chno="71" tvg-id="TVBrusque.br" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="Entretenimento",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="TVCamara.br@SD" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Entretenimento",TV Câmara (1080p)
+#EXTINF:-1 tvg-chno="72" tvg-id="TVCamara.br" tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Entretenimento",TV Câmara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="TVCamara2.br@SD" tvg-logo="https://i.imgur.com/dHrUG1R.png" group-title="Entretenimento",TV Câmara 2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-chno="73" tvg-id="TVCamara2.br" tvg-logo="https://i.imgur.com/dHrUG1R.png" group-title="Entretenimento",TV Câmara 2 (1080p) [Not 24/7]
 https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Entretenimento",TV Cancao Nova (720p)
+#EXTINF:-1 tvg-chno="74" tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Entretenimento",TV Cancao Nova (720p)
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="TVCidadeVerdeCuiaba.br@SD" tvg-logo="https://i.imgur.com/e67h04h.png" group-title="Entretenimento",TV Cidade Verde Cuiaba
+#EXTINF:-1 tvg-chno="75" tvg-id="TVCidadeVerdeCuiaba.br" tvg-logo="https://i.imgur.com/e67h04h.png" group-title="Entretenimento",TV Cidade Verde Cuiaba
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-id="TVClube.br@SD" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Entretenimento",TV Clube (720p)
+#EXTINF:-1 tvg-chno="76" tvg-id="TVClube.br" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Entretenimento",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="TVCuruca.br@SD" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Entretenimento",TV Curuça (360p)
+#EXTINF:-1 tvg-chno="77" tvg-id="TVCuruca.br" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Entretenimento",TV Curuça (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-id="TVEncontrodasAguas.br@SD" group-title="Entretenimento",TV Encontro das Aguas
+#EXTINF:-1 tvg-chno="78" tvg-id="TVEncontrodasAguas.br" group-title="Entretenimento",TV Encontro das Aguas
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-id="TVFronteira.br@SD" tvg-logo="https://i.imgur.com/NtcoW6G.png" group-title="Entretenimento",TV Fronteira (480i)
+#EXTINF:-1 tvg-chno="79" tvg-id="TVFronteira.br" tvg-logo="https://i.imgur.com/NtcoW6G.png" group-title="Entretenimento",TV Fronteira (480i)
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="TVFuturo.br@SD" tvg-logo="https://i.imgur.com/xonrNBf.png" group-title="Entretenimento",TV Futuro (1080p)
+#EXTINF:-1 tvg-chno="80" tvg-id="TVFuturo.br" tvg-logo="https://i.imgur.com/xonrNBf.png" group-title="Entretenimento",TV Futuro (1080p)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="TVGuara.br@SD" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="Entretenimento",TV Guará (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="81" tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="Entretenimento",TV Guará (720p) [Not 24/7]
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="TVLifeAmerica.br@HD" tvg-logo="https://i.imgur.com/HZI0ilU.png" group-title="Entretenimento",TV Life America (720p)
+#EXTINF:-1 tvg-chno="82" tvg-id="TVLifeAmerica.br" tvg-logo="https://i.imgur.com/HZI0ilU.png" group-title="Entretenimento",TV Life America (720p)
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="TVMaisMarica.br@SD" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Entretenimento",TV Mais Maricá (1080p)
+#EXTINF:-1 tvg-chno="83" tvg-id="TVMaisMarica.br" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Entretenimento",TV Mais Maricá (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="TVManaBrasil.pt@SD" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Entretenimento",TV Maná Brasil (1080p)
+#EXTINF:-1 tvg-chno="84" tvg-id="TVManaBrasil.pt" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Entretenimento",TV Maná Brasil (1080p)
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="TVMarajoara.br@SD" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="Entretenimento",TV Marajoara (720p)
+#EXTINF:-1 tvg-chno="85" tvg-id="TVMarajoara.br" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="Entretenimento",TV Marajoara (720p)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="TVMAX.br@SD" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Entretenimento",TV MAX (720p)
+#EXTINF:-1 tvg-chno="86" tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Entretenimento",TV MAX (720p)
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="TVMetropole.br@SD" tvg-logo="https://i.imgur.com/bJyjLpg.png" group-title="Entretenimento",TV Metropole (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="87" tvg-id="TVMetropole.br" tvg-logo="https://i.imgur.com/bJyjLpg.png" group-title="Entretenimento",TV Metropole (720p) [Not 24/7]
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="TVModelo.br@SD" tvg-logo="https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g" group-title="Entretenimento",TV Modelo (720p)
+#EXTINF:-1 tvg-chno="88" tvg-id="TVModelo.br" tvg-logo="https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g" group-title="Entretenimento",TV Modelo (720p)
 https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
-#EXTINF:-1 tvg-chno="89" tvg-id="TVPadreCicero.br@SD" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="Entretenimento",TV Padre Cicero (720p)
+#EXTINF:-1 tvg-chno="89" tvg-id="TVPadreCicero.br" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="Entretenimento",TV Padre Cicero (720p)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="TVPampa.br@SD" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="Entretenimento",TV Pampa
+#EXTINF:-1 tvg-chno="90" tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="Entretenimento",TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="TVPantanalMS.br@SD" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="Entretenimento",TV Pantanal MS (360p) [Not 24/7]
+#EXTINF:-1 tvg-chno="91" tvg-id="TVPantanalMS.br" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="Entretenimento",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="TVParaense.br@HD" tvg-logo="https://duckduckgo.com/i/e408ea02.png" group-title="Entretenimento",TV Paraense (720p)
+#EXTINF:-1 tvg-chno="92" tvg-id="TVParaense.br" tvg-logo="https://duckduckgo.com/i/e408ea02.png" group-title="Entretenimento",TV Paraense (720p)
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
-#EXTINF:-1 tvg-chno="93" tvg-id="TVPassoFundo.br@SD" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="Entretenimento",TV Passo Fundo (720p)
+#EXTINF:-1 tvg-chno="93" tvg-id="TVPassoFundo.br" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="Entretenimento",TV Passo Fundo (720p)
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="TVSaoRaimundo.br@SD" tvg-logo="https://i.imgur.com/f34CQIG.png" group-title="Entretenimento",TV São Raimundo (268p)
+#EXTINF:-1 tvg-chno="94" tvg-id="TVSaoRaimundo.br" tvg-logo="https://i.imgur.com/f34CQIG.png" group-title="Entretenimento",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-id="TVSeries.br@SD" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Entretenimento",TV Series 1 As Panteras (480p)
+#EXTINF:-1 tvg-chno="95" tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Entretenimento",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-id="TVSimCachoeiro.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Entretenimento",TV Sim Cachoeiro (720p)
+#EXTINF:-1 tvg-chno="96" tvg-id="TVSimCachoeiro.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Entretenimento",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="TVSimSaoMateus.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Entretenimento",TV Sim São Mateus (720p)
+#EXTINF:-1 tvg-chno="97" tvg-id="TVSimSaoMateus.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Entretenimento",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="TVSulBahia.br@SD" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="Entretenimento",TV Sul Bahia (320p)
+#EXTINF:-1 tvg-chno="98" tvg-id="TVSulBahia.br" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="Entretenimento",TV Sul Bahia (320p)
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="TVSuldeMinas.br@SD" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="Entretenimento",TV Sul de Minas (720p)
+#EXTINF:-1 tvg-chno="99" tvg-id="TVSuldeMinas.br" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="Entretenimento",TV Sul de Minas (720p)
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="TVTerceiroAnjo.br@SD" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Entretenimento",TV Terceiro Anjo (360p)
+#EXTINF:-1 tvg-chno="100" tvg-id="TVTerceiroAnjo.br" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Entretenimento",TV Terceiro Anjo (360p)
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="TVUFOP.br@HD" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" group-title="Entretenimento",TV UFOP (1080p)
+#EXTINF:-1 tvg-chno="101" tvg-id="TVUFOP.br" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" group-title="Entretenimento",TV UFOP (1080p)
 https://app.tvufop.com.br/hls/tvufop.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="TVUniversal.br@SD" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Entretenimento",TV Universal (480p)
+#EXTINF:-1 tvg-chno="102" tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Entretenimento",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="TVVilaReal.br@SD" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="Entretenimento",TV Vila Real (720p)
+#EXTINF:-1 tvg-chno="103" tvg-id="TVVilaReal.br" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="Entretenimento",TV Vila Real (720p)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="TVZoom.br@SD" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Entretenimento",TV Zoom (720p)
+#EXTINF:-1 tvg-chno="104" tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Entretenimento",TV Zoom (720p)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="TVCRio.br@SD" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="Entretenimento",TVC-Rio
+#EXTINF:-1 tvg-chno="105" tvg-id="TVCRio.br" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="Entretenimento",TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="TVComunitaria.br@SD" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="Entretenimento",TVCOM DF (360p)
+#EXTINF:-1 tvg-chno="106" tvg-id="TVComunitaria.br" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="Entretenimento",TVCOM DF (360p)
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-chno="107" tvg-id="TVCOMMaceio.br@SD" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="Entretenimento",TVCOM Maceió (480p)
+#EXTINF:-1 tvg-chno="107" tvg-id="TVCOMMaceio.br" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="Entretenimento",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="TVERS.br@SD" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Entretenimento",TVE RS (1080p)
+#EXTINF:-1 tvg-chno="108" tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Entretenimento",TVE RS (1080p)
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="TVideoNews.br@SD" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Notícias",TVídeoNews (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="109" tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Notícias",TVídeoNews (720p) [Not 24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-id="TVitape.br@SD" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="Entretenimento",TVitapé (720p)
+#EXTINF:-1 tvg-chno="110" tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="Entretenimento",TVitapé (720p)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="TVNBN.br@SD" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="Entretenimento",TVNBN (720p)
+#EXTINF:-1 tvg-chno="111" tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="Entretenimento",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-id="UMATV.br@HD" tvg-logo="https://i.imgur.com/m0RVb79.png" group-title="Entretenimento",UMA TV
+#EXTINF:-1 tvg-chno="112" tvg-id="UMATV.br" tvg-logo="https://i.imgur.com/m0RVb79.png" group-title="Entretenimento",UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Entertainment",Chroma TV (480p)
+#EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Entertainment",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="FalaLitoral.br@SD" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="General",Fala Litoral (480p)
+#EXTINF:-1 tvg-id="FalaLitoral.br" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="General",Fala Litoral (480p)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Undefined",TV Cancao Nova (720p)
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Undefined",TV Cancao Nova (720p)
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="TVClube.br@SD" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Undefined",TV Clube (720p)
+#EXTINF:-1 tvg-id="TVClube.br" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Undefined",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMaisMarica.br@SD" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="General",TV Mais Maricá (1080p)
+#EXTINF:-1 tvg-id="TVMaisMarica.br" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="General",TV Mais Maricá (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMAX.br@SD" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Undefined",TV MAX (720p)
+#EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Undefined",TV MAX (720p)
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPantanalMS.br@SD" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="Undefined",TV Pantanal MS (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPantanalMS.br" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="Undefined",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPassoFundo.br@SD" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="General",TV Passo Fundo (720p)
+#EXTINF:-1 tvg-id="TVPassoFundo.br" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="General",TV Passo Fundo (720p)
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="News",TV Sim Cachoeiro (720p)
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="News",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="News",TV Sim São Mateus (720p)
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="News",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSuldeMinas.br@SD" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="General",TV Sul de Minas (720p)
+#EXTINF:-1 tvg-id="TVSuldeMinas.br" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="General",TV Sul de Minas (720p)
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Religious",TV Terceiro Anjo (360p)
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Religious",TV Terceiro Anjo (360p)
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="General",TVCOM DF (360p)
+#EXTINF:-1 tvg-id="TVComunitaria.br" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="General",TVCOM DF (360p)
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="UnisulTV.br@SD" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Culture;Education",UNISUL TV (720p)
+#EXTINF:-1 tvg-id="UnisulTV.br" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Culture;Education",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-
