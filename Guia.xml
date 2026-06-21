@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="JellyfinCustomEPG">
+
+  <!-- ========================================== -->
+  <!-- 1. MAPEAMENTO DOS CANAIS                   -->
+  <!-- ========================================== -->
+  <channel id="CazeTV.br"><display-name lang="pt">CazéTV</display-name></channel>
+  <channel id="NikeOnlineBR.br"><display-name lang="pt">Nike Online BR</display-name></channel>
+  <channel id="GospelCartoonBR.br"><display-name lang="pt">Gospel Cartoon BR</display-name></channel>
+  <channel id="FoxSports.br"><display-name lang="pt">Fox Sports</display-name></channel>
+  <channel id="TVBrasil.br"><display-name lang="pt">TV Brasil</display-name></channel>
+  <channel id="1001Noites.br"><display-name lang="pt">1001 Noites</display-name></channel>
+  <channel id="ComBrasil.br"><display-name lang="pt">Com Brasil</display-name></channel>
+  <channel id="ConectvBrasil.br"><display-name lang="pt">Conectv Brasil</display-name></channel>
+  <channel id="SBTInterior.br"><display-name lang="pt">SBT Interior</display-name></channel>
+  <channel id="RedeTVParana.br"><display-name lang="pt">Rede TV Parana</display-name></channel>
+  <channel id="RedeInteriorTV.br"><display-name lang="pt">Rede Interior TV</display-name></channel>
+  <channel id="RecordTV.br"><display-name lang="pt">Record TV</display-name></channel>
+  <channel id="TVFronteiraBR.br"><display-name lang="pt">TV Fronteira BR</display-name></channel>
+
+  <!-- ========================================== -->
+  <!-- 2. PROGRAMAÇÃO DOS CANAIS                  -->
+  <!-- ========================================== -->
+
+  <!-- CazéTV -->
+  <programme start="20260621120000 -0300" stop="20260621160000 -0300" channel="CazeTV.br">
+    <title lang="pt">Transmissão Esportiva Ao Vivo</title>
+    <desc lang="pt">Cobertura dos principais eventos e competições com a equipe CazéTV.</desc>
+    <category lang="pt">Esportes</category>
+  </programme>
+  <programme start="20260621160000 -0300" stop="20260621200000 -0300" channel="CazeTV.br">
+    <title lang="pt">Resenha CazéTV</title>
+    <desc lang="pt">Análises, debates e os melhores momentos das partidas.</desc>
+    <category lang="pt">Esportes</category>
+  </programme>
+
+  <!-- Nike Online BR -->
+  <programme start="20260621120000 -0300" stop="20260621180000 -0300" channel="NikeOnlineBR.br">
+    <title lang="pt">Programação Nike Esportes</title>
+    <desc lang="pt">Conteúdo voltado para a cultura do esporte e treinos.</desc>
+    <category lang="pt">Variedades</category>
+  </programme>
+
+  <!-- Gospel Cartoon BR -->
+  <programme start="20260621120000 -0300" stop="20260621180000 -0300" channel="GospelCartoonBR.br">
+    <title lang="pt">Desenhos Infantis</title>
+    <desc lang="pt">Animações pedagógicas e de conteúdo cristão para crianças.</desc>
+    <category lang="pt">Infantil</category>
+  </programme>
+
+  <!-- Fox Sports -->
+  <programme start="20260621120000 -0300" stop="20260621170000 -0300" channel="FoxSports.br">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">Noticiário esportivo internacional e transmissões.</desc>
+    <category lang="pt">Esportes</category>
+  </programme>
+
+  <!-- TV Brasil -->
+  <programme start="20260621120000 -0300" stop="20260621150000 -0300" channel="TVBrasil.br">
+    <title lang="pt">Repórter Brasil</title>
+    <desc lang="pt">Noticiário diário trazendo os fatos do Brasil e do mundo.</desc>
+    <category lang="pt">Jornalismo</category>
+  </programme>
+  <programme start="20260621150000 -0300" stop="20260621180000 -0300" channel="TVBrasil.br">
+    <title lang="pt">Cine Retrô</title>
+    <desc lang="pt">Grandes produções e documentários nacionais.</desc>
+    <category lang="pt">Filmes</category>
+  </programme>
+
+  <!-- 1001 Noites -->
+  <programme start="20260621120000 -0300" stop="20260621180000 -0300" channel="1001Noites.br">
+    <title lang="pt">Variedades 1001 Noites</title>
+    <desc lang="pt">Entretenimento e produções independentes na grade.</desc>
+    <category lang="pt">Variedades</category>
+  </programme>
+
+  <!-- Com Brasil -->
+  <programme start="20260621120000 -0300" stop="20260621180000 -0300" channel="ComBrasil.br">
+    <title lang="pt">Grade Comunitária</title>
+    <desc lang="pt">Programas jornalísticos e culturais das emissoras parceiras.</desc>
+    <category lang="pt">Cultura</category>
+  </programme>
+
+  <!-- Conectv Brasil -->
+  <programme start="20260621120000 -0300" stop="20260621180000 -0300" channel="ConectvBrasil.br">
+    <title lang="pt">Conectv Show</title>
+    <desc lang="pt">Conteúdos musicais e clips locais na sua televisão.</desc>
+    <category lang="pt">Música</category>
+  </programme>
+
+  <!-- SBT Interior -->
+  <programme start="20260621120000 -0300" stop="20260621140000 -0300" channel="SBTInterior.br">
+    <title lang="pt">SBT Notícias Regional</title>
+    <desc lang="pt">Acompanhe as principais informações da sua região.</desc>
+    <category lang="pt">Jornalismo</category>
+  </programme>
+
+  <!-- Rede TV Parana -->
+  <programme start="20260621120000 -0300" stop="20260621150000 -0300" channel="RedeTVParana.br">
+    <title lang="pt">RedeTV News PR</title>
+    <desc lang="pt">Fatos marcantes do estado do Paraná e cobertura local.</desc>
+    <category lang="pt">Jornalismo</category>
+  </programme>
+
+  <!-- Rede Interior TV -->
+  <programme start="20260621120000 -0300" stop="20260621180000 -0300" channel="RedeInteriorTV.br">
+    <title lang="pt">Interior em Foco</title>
+    <desc lang="pt">Entrevistas e matérias especiais com foco no interior.</desc>
+    <category lang="pt">Entrevistas</category>
+  </programme>
+
+  <!-- Record TV -->
+  <programme start="20260621120000 -0300" stop="20260621153000 -0300" channel="RecordTV.br">
+    <title lang="pt">Balanço Geral Especial</title>
+    <desc lang="pt">Reportagens exclusivas, prestação de serviço e atualidades.</desc>
+    <category lang="pt">Jornalismo</category>
+  </programme>
+
+  <!-- TV Fronteira BR -->
+  <programme start="20260621120000 -0300" stop="20260621160000 -0300" channel="TVFronteiraBR.br">
+    <title lang="pt">Fronteira Notícias</title>
+    <desc lang="pt">Informação local e os acontecimentos das cidades da fronteira.</desc>
+    <category lang="pt">Jornalismo</category>
+  </programme>
+
+</tv>
