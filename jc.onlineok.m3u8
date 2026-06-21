@@ -1,19 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="Esportes",CazéTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
 # ===== TV ABERTA =====
 #EXTINF:-1 group-title="TV Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-
 #EXTINF:-1 group-title="TV Aberta",TV Cultura
 https://tvcultura-stream.ebc.com.br/live.m3u8
-
 #EXTINF:-1 group-title="TV Aberta",TV Senado
 https://www.senado.leg.br/noticias/ao-vivo
-
 #EXTINF:-1 group-title="TV Aberta",TV Câmara
 https://www.camara.leg.br/tv/
-
 #EXTINF:-1 group-title="TV Aberta",TV Assembleia
 http://200.137.130.141/hls/live/playlist.m3u8
