@@ -1,21 +1,36 @@
 #EXTM3U
 #EXTINF:-1 group-title="Esportes",CazéTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="EnergiaTV.br" tvg-name="Energia TV" tvg-logo="https://imgur.com" group-title="Brasil",Energia TV
-https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
-#EXTINF:-1 tvg-id="CBNTV.br" tvg-name="CBN TV" tvg-logo="https://imgur.com" group-title="Brasil",CBN TV
-https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
+#EXTINF:-1 tvg-id="NikeOnlineBR.br" tvg-name="Nike Online BR" tvg-logo="https://imgur.com" group-title="Brasil",Nike Online BR
+https://x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GospelCartoonBR.br" tvg-name="Gospel Cartoon BR" tvg-logo="https://imgur.com" group-title="Brasil",Gospel Cartoon BR
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports" tvg-logo="https://imgur.com" group-title="Brasil",Fox Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 # ===== TV ABERTA =====
 #EXTINF:-1 group-title="TV Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="TV Aberta",TV Cultura
-https://tvcultura-stream.ebc.com.br/live.m3u8
-#EXTINF:-1 group-title="TV Aberta",TV Senado
-https://www.senado.leg.br/noticias/ao-vivo
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://imgur.com" group-title="Brasil",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ComBrasil.br" tvg-name="Com Brasil" tvg-logo="https://imgur.com" group-title="Brasil",Com Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 tvg-id="ConectvBrasil.br" tvg-name="Conectv Brasil" tvg-logo="https://imgur.com" group-title="Brasil",Conectv Brasil
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT Interior" tvg-logo="https://imgur.com" group-title="Brasil",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="Rede TV Parana" tvg-logo="https://imgur.com" group-title="Brasil",Rede TV Parana
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeInteriorTV.br" tvg-name="Rede Interior TV" tvg-logo="https://imgur.com" group-title="Brasil",Rede Interior TV
+https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://imgur.com" group-title="Brasil",Record TV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports" tvg-logo="https://imgur.com" group-title="Brasil",Fox Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 tvg-id="TVFronteiraBR.br" tvg-name="TV Fronteira BR" tvg-logo="https://imgur.com" group-title="Brasil",TV Fronteira BR
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+
+
+
+
+
 
