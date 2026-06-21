@@ -7,7 +7,7 @@ https://x1co.com.br/hls/stream.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports" tvg-logo="https://imgur.com" group-title="Brasil",Fox Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 group-title="TV Aberta",TV Brasil
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="TV Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://imgur.com" group-title="Brasil",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
