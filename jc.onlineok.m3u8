@@ -8,5 +8,10 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://tvcultura-stream.ebc.com.br/live.m3u8
 #EXTINF:-1 group-title="TV Aberta",TV Senado
 https://www.senado.leg.br/noticias/ao-vivo
-
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://imgur.com" group-title="Brasil",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ComBrasil.br" tvg-name="Com Brasil" tvg-logo="https://imgur.com" group-title="Brasil",Com Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="ConectvBrasil.br" tvg-name="Conectv Brasil" tvg-logo="https://imgur.com" group-title="Brasil",Conectv Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
