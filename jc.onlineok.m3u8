@@ -27,4 +27,5 @@ https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP" tvg-logo="https://wikimedia.org" group-title="TV Aberta",Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP _TK/index.m3u8
-
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP" tvg-logo="https://raw.githubusercontent.com" group-title="TV Aberta",Globo SP
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
