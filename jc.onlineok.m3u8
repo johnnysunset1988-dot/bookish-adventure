@@ -1,29 +1,39 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/main/Brazil/brazil1.xml"
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazéTV" group-title="Esportes",CazéTV
+#EXTM3U
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazéTV" tvg-logo="https://githubusercontent.com" group-title="Esportes",CazéTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-# ===== TV ABERTA =====
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="TV Aberta",TV Brasil
+
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="https://githubusercontent.com" group-title="TV Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" group-title="TV Aberta",Record TV
+
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="https://githubusercontent.com" group-title="TV Aberta",Record TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT Interior" group-title="TV Aberta",SBT Interior
+
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT Interior" tvg-logo="https://githubusercontent.com" group-title="TV Aberta",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV Paraná" group-title="TV Aberta",RedeTV Paraná
+
+#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV Paraná" tvg-logo="https://githubusercontent.com" group-title="TV Aberta",RedeTV Paraná
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-# ===== CANAIS BRASIL =====
-#EXTINF:-1 tvg-id="NikeOnlineBR.br" tvg-name="Nike Online BR" group-title="Brasil",Nike Online BR
+
+#EXTINF:-1 tvg-id="NikeOnlineBR.br" tvg-name="Nike Online BR" tvg-logo="https://githubusercontent.com" group-title="Canais Brasil",Nike Online BR
 https://x1co.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GospelCartoonBR.br" tvg-name="Gospel Cartoon BR" group-title="Brasil",Gospel Cartoon BR
+
+#EXTINF:-1 tvg-id="GospelCartoonBR.br" tvg-name="Gospel Cartoon BR" tvg-logo="https://githubusercontent.com" group-title="Canais Brasil",Gospel Cartoon BR
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" group-title="Brasil",1001 Noites
+
+#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites" tvg-logo="https://githubusercontent.com" group-title="Canais Brasil",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ComBrasil.br" tvg-name="Com Brasil" group-title="Brasil",Com Brasil
+
+#EXTINF:-1 tvg-id="ComBrasil.br" tvg-name="Com Brasil" tvg-logo="https://githubusercontent.com" group-title="Canais Brasil",Com Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-id="ConectvBrasil.br" tvg-name="Conectv Brasil" group-title="Brasil",Conectv Brasil
+
+#EXTINF:-1 tvg-id="ConectvBrasil.br" tvg-name="Conectv Brasil" tvg-logo="https://githubusercontent.com" group-title="Canais Brasil",Conectv Brasil
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="RedeInteriorTV.br" tvg-name="Rede Interior TV" group-title="Brasil",Rede Interior TV
+
+#EXTINF:-1 tvg-id="RedeInteriorTV.br" tvg-name="Rede Interior TV" tvg-logo="https://githubusercontent.com" group-title="Canais Brasil",Rede Interior TV
 https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-#EXTINF:-1 tvg-id="TVFronteiraBR.br" tvg-name="TV Fronteira BR" group-title="Brasil",TV Fronteira BR
+
+#EXTINF:-1 tvg-id="TVFronteiraBR.br" tvg-name="TV Fronteira BR" tvg-logo="https://githubusercontent.com" group-title="Canais Brasil",TV Fronteira BR
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports" group-title="Teste",Fox Sports
+
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports" tvg-logo="https://githubusercontent.com" group-title="Esportes",Fox Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
