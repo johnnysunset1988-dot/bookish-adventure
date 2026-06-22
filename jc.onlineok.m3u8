@@ -23,7 +23,7 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 #EXTINF:-1 tvg-id="TVFronteiraBR.br" tvg-name="TV Fronteira BR" tvg-logo="https://githubusercontent.com" group-title="Canais Brasil",TV Fronteira BR
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports" tvg-logo="https://githubusercontent.com" group-title="Esportes",Fox Sports
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports" tvg-logo="https://githubusercontent.comtv-logos/tv-logos/main" group-title="Esportes",Fox Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP" tvg-logo="https://wikimedia.org" group-title="TV Aberta",Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP _TK/index.m3u8
