@@ -4,59 +4,59 @@
 <tv generator-info-name="JellyfinPerfeito">
 
   <!-- ========================================== -->
-  <!-- DECLARAÇÃO DOS CANAIS E LOGOS              -->
+  <!-- DECLARAÇÃO DOS CANAIS E LOGOS (JC FIBRA)   -->
   <!-- ========================================== -->
   <channel id="CazeTV.br">
     <display-name lang="pt">CazéTV</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="NikeOnlineBR.br">
     <display-name lang="pt">Nike Online BR</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="GospelCartoonBR.br">
     <display-name lang="pt">Gospel Cartoon BR</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="FoxSports.br">
     <display-name lang="pt">Fox Sports</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="TVBrasil.br">
     <display-name lang="pt">TV Brasil</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="1001Noites.br@SD">
     <display-name lang="pt">1001 Noites</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="ComBrasil.br">
     <display-name lang="pt">Com Brasil</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="ConectvBrasil.br">
     <display-name lang="pt">Conectv Brasil</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="SBTInterior.br">
     <display-name lang="pt">SBT Interior</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="RedeTVParana.br">
     <display-name lang="pt">Rede TV Parana</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="RedeInteriorTV.br">
     <display-name lang="pt">Rede Interior TV</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="RecordTV.br">
     <display-name lang="pt">Record TV</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
   <channel id="TVFronteiraBR.br">
     <display-name lang="pt">TV Fronteira BR</display-name>
-    <icon src="https://imgur.com"/>
+    <icon src="https://githubusercontent.com"/>
   </channel>
 
   <!-- ========================================== -->
@@ -165,7 +165,7 @@
   <!-- TV Fronteira BR -->
   <programme start="20260621000000 -0300" stop="20260622235959 -0300" channel="TVFronteiraBR.br">
     <title lang="pt">Fronteira Informa</title>
-    <desc lang="pt">Cobertura local de notícias sobre economia, política e eventos das cidades de fronteira.</desc>
+    <desc lang="pt">Cobertura local de notícias sobre economy, política e eventos das cidades de fronteira.</desc>
     <category lang="pt">Jornalismo</category>
   </programme>
 
