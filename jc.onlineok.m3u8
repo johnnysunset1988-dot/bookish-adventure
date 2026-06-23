@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazéTV" tvg-logo="group-title" group-title="Esportes",CazéTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="group-title" group-title="TV Aberta",TV Brasil
+#EXTINF:-1 tvg-name="TV Brasil" group-title="TV Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV" tvg-logo="group-title" group-title="TV Aberta",Record TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -27,4 +27,5 @@ https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo SP" tvg-logo="group-title" group-title="TV Aberta",Globo SP
 https://cdn-1.nxplay.com.br/GLOBO_SP _TK/index.m3u8
-#
+#EXTINF:-1 tvg-name="Canal Gov" group-title="TV Aberta",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
