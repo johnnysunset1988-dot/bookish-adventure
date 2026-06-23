@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://logotipo.globo.com",Globo
 http://globoplay.globo.com/live
-#EXTINF:-1 tvg-name="SBT" tvg-logo="https://sbt.com.br",SBT
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png",SBT
 http://wz4.dnip.com.br:1935/sbt/sbt2/playlist.m3u8
 #EXTINF:-1 tvg-name="Record" tvg-logo="https://recordtv.r7.com",Record
 http://playtv.unisc.br:1935/record/live/playlist.m3u8
