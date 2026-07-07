@@ -19,3 +19,5 @@ https://lbgo.bozztv.com/ssh101/ssh101/tvlafaietehd/playlist.m3u8
 http://143.14.178.40:7777/Multishow_HD/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/VcHy0fu.png",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 tvg-id="Record_BG" group-title="Abertos",Balanço Geral
+https://d147dt0faszygd.cloudfront.net/wp-newr7/20260707/6a4d4243a8679c647fa8d94c/t_352bf7321d8849b09dd7320a97aa1bf1_name_5225870_ERP_0707_BGT_JOVEM_15_ANOS/hd.m3u
