@@ -8,7 +8,7 @@ http://187.62.68.32:8080/GLOBO/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/tc1ALuu.png",SBT Nacional (720p)
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+https://dai.google.com/linear/hls/pa/event/gMpC1bOKSi2hTmwjxmVB0A/stream/e28b273d-0e4f-456e-909b-f2c8e9aeee6d:SCL2/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",Pluto TV Record News (720p)
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/HZDRG0K.png",Record News (720p)
