@@ -3,8 +3,6 @@
 http://143.14.178.40:7777/Gloob_HD/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UWkHErt.png",Gloobinho (1080p)
 http://143.14.178.40:7777/Gloobinho_HD/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/OoSUg78.png",TV Globo Sao Paulo (1080p)
-http://187.62.68.32:8080/GLOBO/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/tc1ALuu.png",SBT Nacional (720p)
@@ -21,3 +19,5 @@ http://143.14.178.40:7777/Multishow_HD/index.m3u8
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 group-title="Abertos" tvg-logo="imgur.com",Band BR
 https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhjY2FlYmZlLTkwZTEtNDIxZi1iZjU4LTYxNjY2ZjJlMWE0OSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4MzQ3MzUwMSwibmJmIjoxNzgzNDczNTAxLCJleHAiOjE3ODYwNjU1MDEsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjhjY2FlYmZlLTkwZTEtNDIxZi1iZjU4LTYxNjY2ZjJlMWE0OSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CIXh-RrlonfjgN6aJBR45VvFN0WfhMUBCwCl6y8uVI8&uid=8ccaebfe-90e1-421f-bf58-61666f2e1a49&magica=simkpXVCJ9.eyJpZCI6IjhjY2FlYmZlLTkwZTEtNDIxZi1iZjU4LTYxNjY2ZjJlMWE0OSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4MzQ3MzUwMSwibmJmIjoxNzgzNDczNTAxLCJleHAiOjE3ODYwNjU1MDEsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjhjY2FlYmZlLTkwZTEtNDIxZi1iZjU4LTYxNjY2ZjJlMWE0OSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.CIXh-RrlonfjgN6aJBR45VvFN0WfhMUBCwCl6y8uVI8&uid=8ccaebfe-90e1-421f-bf58-61666f2e1a49&magica=sim
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/OoSUg78.png",TV Globo Sao Paulo (1080p)
+http://187.62.68.32:8080/GLOBO/index.m3u8
