@@ -10,7 +10,7 @@ http://143.14.178.40:7777/Gloobinho_HD/index.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/tc1ALuu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",SBT Nacional (720p)
-https://dai.google.com/linear/hls/pa/event/gMpC1bOKSi2hTmwjxmVB0A/stream/31248b62-16a7-46ce-a8f4-743fe9f45cba:SCL2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/gMpC1bOKSi2hTmwjxmVB0A/stream/05a4d3ce-e073-450b-9064-58b5830a1c8c:SCL2/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",Pluto TV Record News (720p)
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
