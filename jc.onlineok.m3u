@@ -31,7 +31,7 @@ http://187.62.68.32:8080/GLOBO/index.m3u8
 http://143.14.178.40:7777/Multishow_HD/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="TV",Rede IS TV
-https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",Canal
-https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-20b17534-8728-43bd-b102-0b67a1481ec5/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="TV",TV Startup
+https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-20b17534-8728-43bd-b102-0b67a1481ec5/index.m3u8
